@@ -208,3 +208,4 @@ console.log(joe.scopeArrow());
 //Window object
 // 3. Explain why "this" is different when an arrow function is used.
 //Because arrow functions does not have its own bindings to this, it creates a window object because it was a part of the scope it was inherited by the parent above in the code challenge (Lexical Scoping).
+
